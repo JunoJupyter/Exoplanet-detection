@@ -2,8 +2,8 @@
                                                             by Vishnu Singh
 ### After nine years in deep space collecting data that revealed our night sky to be filled with billions of hidden planets – more planets even than stars – NASA’s Kepler space telescope was retired. Kepler leaves a legacy of more than 2,600 planet discoveries from outside our solar system, many of which could be promising places for life.
 
-![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/cbot2.PNG)
-![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/cbot.PNG)
+![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/exoplanet-detection/master/readme/PIA16888.jpg)
+
 
 ## The Top Science Results from the Kepler Mission
 ### NASA's Kepler mission revolutionized our scientific understanding of our place in the cosmos by discovering that:
@@ -21,4 +21,4 @@
 #####  1. When Mercury transits the sun, it causes a slight dip in the sun’s brightness as it blocks a tiny portion of the sun's light. Scientists discovered they could use that phenomenon to search for planets orbiting distant stars, called exoplanets, that are otherwise obscured from view by the light of the star.
 #####  2. When measuring the brightness of far-off stars, a slight recurring dip in the light curve (a graph of light intensity) could indicate an exoplanet orbiting and transiting its star. NASA’s Kepler mission has found more than 1,000 exoplanets by looking for this telltale drop in brightness.
 
-![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/cbot.PNG)
+![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/exoplanet-detection/master/readme/exo.png)
